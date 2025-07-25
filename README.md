@@ -1,6 +1,6 @@
 ## 🌱 Intro
 
-I’m currently studying Advanced computing @ Tsinghua university, with a focus on AI. Feel free to contact me if you are interested in working with me! For more information about me you can visit [my website](https://portfolio.renfuserver.top) or download [my resume](https://portfolio.renfuserver.top/cv.pdf)
+I’m currently studying Advanced computing @ Tsinghua University, with a focus on AI. Feel free to contact me if you are interested in working with me! For more information about me you can visit [my website](https://portfolio.renfuserver.top) or download [my resume](https://portfolio.renfuserver.top/cv.pdf)
 
 ## 🌐 Socials
 
